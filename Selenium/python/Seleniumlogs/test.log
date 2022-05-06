@@ -1,0 +1,18 @@
+WARNING:root:the is warning message
+ERROR:root:the is error message
+CRITICAL:root:the is critical message
+2022-04-22 16:43:46,664: DEBUG:the is debug message
+2022-04-22 16:43:46,665: INFO:the is Info message
+2022-04-22 16:43:46,665: WARNING:the is warning message
+2022-04-22 16:43:46,666: ERROR:the is error message
+2022-04-22 16:43:46,666: CRITICAL:the is critical message
+22/04/22 04:46:49 PM: DEBUG:the is debug message
+22/04/22 04:46:49 PM: INFO:the is Info message
+22/04/22 04:46:49 PM: WARNING:the is warning message
+22/04/22 04:46:49 PM: ERROR:the is error message
+22/04/22 04:46:49 PM: CRITICAL:the is critical message
+22/04/22 04:50:27 PM: DEBUG:the is debug message
+22/04/22 04:50:27 PM: INFO:the is Info message
+22/04/22 04:50:27 PM: WARNING:the is warning message
+22/04/22 04:50:27 PM: ERROR:the is error message
+22/04/22 04:50:27 PM: CRITICAL:the is critical message
